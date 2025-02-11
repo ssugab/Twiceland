@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+:root {
+    --color-magenta: #FF5FA2;
+    --color-apricot: #FCCFA6;
+}
